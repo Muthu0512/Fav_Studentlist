@@ -54,9 +54,9 @@ const StudentList = () => {
 
       <form
         onSubmit={handleSubmit}
-        className="flex  justify-start align-middle gap-8 mx-52 my-32 text-center   "
+        className="flex  justify-start align-middle gap-7 mx-52 my-32 text-center   "
       >
-        <label htmlFor="name" className="text-3xl underline">
+        <label htmlFor="name" className="text-2xl underline">
           Enter Student Name :
         </label>
         <input
